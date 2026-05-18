@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aditi Raj</h1>
-<h3 align="center">CSE Student | ML Engineer | Data Analyst | UI/UX Designer</h3>
+<h1 align="left">Hi 👋, I'm Aditi Raj</h1>
+<h3 align="left">CSE Student | ML Engineer | Data Analyst | UI/UX Designer</h3>
 
 ---
 
@@ -8,13 +8,12 @@
 - 🤖 Interested in AI/ML & Data Science
 - 🌐 Full Stack & UI/UX Enthusiast
 - 🚀 Open to collaborations
-- 📫 Reach me at: your-email@gmail.com
+- 📫 Reach me at: aditiraj2903@gmail.com
 
 ---
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](YOUR_INSTAGRAM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditiraj-2903ar?)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/aditiraj29)
 
 ---
