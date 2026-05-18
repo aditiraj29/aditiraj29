@@ -20,13 +20,7 @@
 
 # 💻 Tech Stack:
 
-# 💻 Tech Stack:
-
-![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=cplusplus)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3)
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5)
-![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=openjdk)
+![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c) ![C++](https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=cplusplus) ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3) ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5) ![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript)
 ![LaTeX](https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python)
