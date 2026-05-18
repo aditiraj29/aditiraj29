@@ -1,14 +1,14 @@
-<h1 align="left">Aditi Raj</h1>
+<h1 align="left">Hi 👋, I'm Aditi Raj</h1>
 <h3 align="left">CSE Student | ML Engineer | Data Analyst | UI/UX Designer</h3>
 
 ---
 
 # 💫 About Me:
-- 🎓 Third-year CSE student
-- 🤖 Interested in AI/ML & Data Science
-- 🌐 Full Stack & UI/UX Enthusiast
-- 🚀 Open to collaborations
-- 📫 Reach me at: aditiraj2903@gmail.com
+- Third-year CSE student
+- Interested in AI/ML & Data Science
+- Full Stack & UI/UX Enthusiast
+- Open to collaborations
+- Reach me at: aditiraj2903@gmail.com
 
 ---
 
